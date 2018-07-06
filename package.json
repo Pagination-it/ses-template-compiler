@@ -1,0 +1,24 @@
+{
+  "name": "ses-template-compiler",
+  "version": "1.0.0",
+  "description": "A simple SES template compiler which combines multiple files into a single JSON template",
+  "keywords": [
+    "ses",
+    "email",
+    "ses template",
+    "template compiler"
+  ],
+  "homepage": "http://",
+  "main": "lib/ses-template-compiler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sime1",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.16.0"
+  },
+  "bin": {
+    "ses-template-compiler": "./compile-ses-template.js"
+  }
+}

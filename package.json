@@ -1,6 +1,6 @@
 {
   "name": "@pagination/ses-template-compiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple SES template compiler which combines multiple files into a single JSON template",
   "keywords": [
     "ses",

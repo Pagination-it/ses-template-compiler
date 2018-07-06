@@ -37,7 +37,7 @@ From the the --help:
 
 ## Support
 
-Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
+Please [open an issue](https://github.com/Pagination-it/ses-template-compiler/issues/new) for support.
 
 ## Contributing
 

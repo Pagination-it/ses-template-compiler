@@ -15,7 +15,7 @@ taking care of removing new lines and indentation from the HTML code.
 Open your terminal and run 
 
 ```shell
-  npm install ses-template-compiler
+  npm install -g @pagination/ses-template-compiler
 ```
 
 ## Usage
